@@ -1,4 +1,4 @@
-# AI Research
+# AI Research Learning
 
 This repository contains structured notebooks, implementations, and practice exercises related to:
 
